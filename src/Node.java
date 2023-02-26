@@ -4,6 +4,7 @@ public class Node {
 
 	private int columns;
 
+	
 	public Node() {
 		rows = 0;
 		columns = 0;
