@@ -1,6 +1,6 @@
 # snake-game
 
-Move the snake around and eat as many apples as you can without crashing into anything (including itself) 
+Move the snake around and eat as many apples as you can get it to without crashing into anything (including itself) 
 
 ---
 
